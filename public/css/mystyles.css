@@ -1,0 +1,14 @@
+.masthead{
+    background: white;
+}
+.navbar-menu {
+  padding-top: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  margin-right: 0.5rem;
+  font-size: 0.7rem;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.title{
+    font-size: 15rem;
+}
